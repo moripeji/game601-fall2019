@@ -906,10 +906,12 @@ self.C3_JsPropNameTable = [
 		() => "spawnEnemy",
 		() => "Level3",
 		() => -10,
-		() => 30,
+		() => 10,
+		() => "Win Screen",
+		() => 20,
 		() => "Level 1 Message Cont",
-		() => 15,
-		() => "Level 1 Message"
+		() => "Level 1 Message",
+		() => "START_MENU"
 	];
 }
 
